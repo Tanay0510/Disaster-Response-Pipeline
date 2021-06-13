@@ -5,8 +5,8 @@
 
 In a Python script, process_data.py:
 
-Loads the messages and categories datasets
-Merges the two datasets
+Loads the messages and categories datasets </n>
+Merges the two datasets </n>
 Cleans the data
 Stores it in a SQLite database
 
