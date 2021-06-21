@@ -21,9 +21,8 @@ In a Python script, train_classifier.py:
 - Outputs results on the test set<br/>
 - Exports the final model as a pickle file
 
-### Flask Web App
 
-Project Motivation
+### Project Motivation
 
 In this project, I apply skills I learned in Data Engineering Section to analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages.
 
