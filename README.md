@@ -28,7 +28,7 @@ In this project, I apply skills I learned in Data Engineering Section to analyze
 
 
 #### Instructions: 
-- (Run run.py directly if DisasterResponse.db and claasifier.pkl already exist.)
+- Run run.py directly if DisasterResponse.db and claasifier.pkl already exist.
 
 - Run the following commands in the project's root directory to set up your database and model.
 
